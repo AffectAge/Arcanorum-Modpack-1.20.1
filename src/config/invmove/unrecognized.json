@@ -31,7 +31,9 @@
     "net.povstalec.sgjourney.client.screens.InterfaceScreen": true,
     "net.povstalec.sgjourney.client.screens.PegasusDHDScreen": true,
     "net.povstalec.sgjourney.client.screens.GDOScreen": true,
-    "net.povstalec.sgjourney.client.screens.ClassicDHDScreen": true
+    "net.povstalec.sgjourney.client.screens.ClassicDHDScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.camera.CameraAttachmentsScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.LightroomScreen": true
   },
   "hideBackground": {
     "io.github.foundationgames.automobility.screen.AutoMechanicTableScreen": true,
@@ -63,6 +65,9 @@
     "net.povstalec.sgjourney.client.screens.InterfaceScreen": true,
     "net.povstalec.sgjourney.client.screens.PegasusDHDScreen": true,
     "net.povstalec.sgjourney.client.screens.GDOScreen": true,
-    "net.povstalec.sgjourney.client.screens.ClassicDHDScreen": true
+    "net.povstalec.sgjourney.client.screens.ClassicDHDScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.ItemRenameScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.camera.CameraAttachmentsScreen": true,
+    "io.github.mortuusars.exposure.gui.screen.LightroomScreen": true
   }
 }

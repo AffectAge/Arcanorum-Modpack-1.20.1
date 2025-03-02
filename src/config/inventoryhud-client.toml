@@ -51,7 +51,7 @@
 	#Show Armor HUD when debug menu is open
 	armWithDebug = true
 	#Show arrows count when no weapon in your hands
-	showArrowsWithoutWeapon = true
+	showArrowsWithoutWeapon = false
 
 #Settings for Potions HUD
 [potionshud]

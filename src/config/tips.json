@@ -7,7 +7,7 @@
   "defaultTitle": {
     "bold": true,
     "underlined": true,
-    "color": "yellow",
+    "color": "dark_green",
     "translate": "tipsmod.title.default"
   }
 }

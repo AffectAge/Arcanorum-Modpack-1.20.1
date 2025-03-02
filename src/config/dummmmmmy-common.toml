@@ -25,7 +25,7 @@
 	xp_per_damage_on_hit = 0.0
 	#Color of the boss health bar
 	#Allowed Values: PINK, BLUE, RED, GREEN, YELLOW, PURPLE, WHITE
-	boss_health_color = "YELLOW"
+	boss_health_color = "RED"
 	#Health of the dummy when in boss moe (wearing a banner)
 	#Range: 1 ~ 1000
 	boss_health = 200

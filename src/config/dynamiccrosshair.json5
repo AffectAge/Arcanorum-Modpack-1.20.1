@@ -23,8 +23,8 @@
 		"forceHoldingSpyglass": false
 	},
 	"color": {
-		"overrideColor": false,
-		"customColor": -5588020,
+		"overrideColor": true,
+		"customColor": -1,
 		"enableBlend": true
 	},
 	"dynamicCrosshairStyle": true,

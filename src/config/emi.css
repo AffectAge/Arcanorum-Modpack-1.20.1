@@ -409,7 +409,7 @@
 	/**
 	 * Cheat in a stack of an item into the inventory.
 	 */
-	cheat-stack-to-inventory: "ctrl key.mouse.left";
+	cheat-stack-to-inventory: "key.mouse.left";
 
 	/**
 	 * Cheat in one of an item into the cursor.

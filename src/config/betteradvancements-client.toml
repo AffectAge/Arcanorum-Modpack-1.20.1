@@ -1,7 +1,7 @@
 defaultUncompletedIconColor = "#FFFFFF"
-defaultUncompletedTitleColor = "#0489C1"
-defaultCompletedIconColor = "#DBA213"
-defaultCompletedTitleColor = "#DBA213"
+defaultUncompletedTitleColor = "#7A7A7A"
+defaultCompletedIconColor = "#009A0A"
+defaultCompletedTitleColor = "#009A0A"
 doAdvancementsBackgroundFade = true
 showDebugCoordinates = false
 orderTabsAlphabetically = false
@@ -15,10 +15,10 @@ uiScaling = 100
 #    All: Show both obtained and unobtained criteria
 criteriaDetail = "Default"
 criteriaDetailRequiresShift = false
-addInventoryButton = false
+addInventoryButton = true
 defaultDrawDirectLines = false
 defaultHideLines = false
-defaultCompletedLineColor = "#FFFFFF"
+defaultCompletedLineColor = "#009A0A"
 defaultUncompletedLineColor = "#FFFFFF"
-onlyUseAboveAdvancementTabs = false
+onlyUseAboveAdvancementTabs = true
 
