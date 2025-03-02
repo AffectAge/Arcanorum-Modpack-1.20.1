@@ -1,0 +1,100 @@
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+	[types.wood_type]
+
+		[types.wood_type.gtceu]
+			rubber = true
+
+		[types.wood_type.biomesoplenty]
+			fir = true
+			pine = true
+			maple = true
+			redwood = true
+			mahogany = true
+			jacaranda = true
+			palm = true
+			willow = true
+			dead = true
+			magic = true
+			umbran = true
+			hellbark = true
+			empyreal = true
+
+		[types.wood_type.totemic]
+			cedar = true
+
+		[types.wood_type.vinery]
+			dark_cherry = true
+
+		[types.wood_type.beachparty]
+			palm = true
+
+		[types.wood_type.betterarcheology]
+			rotten = true
+
+	[types.leaves_type]
+
+		[types.leaves_type.gtceu]
+			rubber = true
+
+		[types.leaves_type.biomesoplenty]
+			origin = true
+			flowering_oak = true
+			red_maple = true
+			orange_maple = true
+			yellow_maple = true
+			rainbow_birch = true
+			snowblossom = true
+			null = true
+			cypress = true
+			fir = true
+			pine = true
+			redwood = true
+			mahogany = true
+			jacaranda = true
+			palm = true
+			willow = true
+			dead = true
+			magic = true
+			umbran = true
+			hellbark = true
+			empyreal = true
+
+		[types.leaves_type.totemic]
+			cedar = true
+
+		[types.leaves_type.vinery]
+			grapevine = true
+			dark_cherry = true
+			apple = true
+
+		[types.leaves_type.beachparty]
+			palm = true
+
+#Disables specific entries
+[entries]
+
+	[entries.wood_type]
+
+		[entries.wood_type.create]
+			window_pane = true
+			window = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.another_furniture]
+			drawer = true
+			table = true
+			flower_box = true
+			shelf = true
+			shutter = true
+			bench = true
+			chair = true
+
+		[entries.wood_type.lolmcv]
+			chest = true
+			trapped_chest = true
+
