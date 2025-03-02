@@ -2,6 +2,16 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+    {
+        "id": "1.0.0",
+        "releasedAt": 209384093820,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/",
+                "curseforge": "https://curseforge.com/",
+                "generic": "https://github.com/AffectAge/Arcanorum-Modpack-1.20.1/releases"
+            }
+        }
+    }
   ]
 }
